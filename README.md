@@ -28,25 +28,32 @@ With hands-on experience in **AWS**, **Terraform**, **Docker**, **Kubernetes**, 
 ## 🛠 Tech Stack
 
 ### ☁️ Cloud
-[![Cloud Stack](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=aws" height="45" alt="AWS" />  
+`AWS`
 
 ### 📦 Containers
-[![Containers Stack](https://skillicons.dev/icons?i=docker,kubernetes)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=docker,kubernetes" height="45" alt="Containers" />  
+`Docker` &nbsp;&nbsp; `Kubernetes`
 
 ### ⚙️ CI/CD
-[![CI/CD Stack](https://skillicons.dev/icons?i=jenkins,githubactions,maven)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=jenkins,githubactions,maven" height="45" alt="CI/CD" />  
+`Jenkins` &nbsp;&nbsp; `GitHub Actions` &nbsp;&nbsp; `Maven`
 
 ### 🏗️ Infrastructure as Code
-[![IaC Stack](https://skillicons.dev/icons?i=terraform)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=terraform" height="45" alt="Terraform" />  
+`Terraform`
 
 ### 📊 Monitoring
-[![Monitoring Stack](https://skillicons.dev/icons?i=prometheus,grafana)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=prometheus,grafana" height="45" alt="Monitoring" />  
+`Prometheus` &nbsp;&nbsp; `Grafana`
 
 ### 💻 Programming
-[![Programming Stack](https://skillicons.dev/icons?i=java,ts,js,bash)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=java,ts,js,bash" height="45" alt="Programming" />  
+`Java` &nbsp;&nbsp; `TypeScript` &nbsp;&nbsp; `JavaScript` &nbsp;&nbsp; `Bash`
 
 ### 🛠️ Developer Tools
-[![Developer Tools Stack](https://skillicons.dev/icons?i=linux,git,github,vscode)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode" height="45" alt="Developer Tools" />  
+`Linux` &nbsp;&nbsp; `Git` &nbsp;&nbsp; `GitHub` &nbsp;&nbsp; `VS Code`
 
 ---
 
