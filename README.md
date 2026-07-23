@@ -10,11 +10,7 @@
 
 </div>
 
-<br />
-
 ---
-
-<br />
 
 ## 👨‍💻 About Me
 
@@ -27,58 +23,32 @@ With hands-on experience in **AWS**, **Terraform**, **Docker**, **Kubernetes**, 
 - 🐳 **Containerization & Orchestration:** Packaging applications with Docker and managing workload deployments in Kubernetes environments.
 - 🔄 **CI/CD & Automation:** Building continuous integration and automated deployment pipelines with Jenkins and GitHub Actions.
 
-<br />
+---
 
 ## 🛠 Tech Stack
 
-### Cloud
-<a href="https://aws.amazon.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="40" />
-</a>
+### ☁️ Cloud
+[![Cloud Stack](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 
-<br />
+### 📦 Containers
+[![Containers Stack](https://skillicons.dev/icons?i=docker,kubernetes)](https://skillicons.dev)
 
-### Containers
-<a href="https://www.docker.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes" alt="Containers" height="40" />
-</a>
+### ⚙️ CI/CD
+[![CI/CD Stack](https://skillicons.dev/icons?i=jenkins,githubactions,maven)](https://skillicons.dev)
 
-<br />
+### 🏗️ Infrastructure as Code
+[![IaC Stack](https://skillicons.dev/icons?i=terraform)](https://skillicons.dev)
 
-### CI/CD
-<a href="https://www.jenkins.io/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=jenkins,githubactions" alt="CI/CD" height="40" />
-</a>
+### 📊 Monitoring
+[![Monitoring Stack](https://skillicons.dev/icons?i=prometheus,grafana)](https://skillicons.dev)
 
-<br />
+### 💻 Programming
+[![Programming Stack](https://skillicons.dev/icons?i=java,ts,js,bash)](https://skillicons.dev)
 
-### Infrastructure as Code
-<a href="https://www.terraform.io/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" height="40" />
-</a>
+### 🛠️ Developer Tools
+[![Developer Tools Stack](https://skillicons.dev/icons?i=linux,git,github,vscode)](https://skillicons.dev)
 
-<br />
-
-### Monitoring
-<a href="https://prometheus.io/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=prometheus,grafana" alt="Monitoring" height="40" />
-</a>
-
-<br />
-
-### Programming
-<a href="https://www.java.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=java,ts,js,bash" alt="Programming" height="40" />
-</a>
-
-<br />
-
-### Developer Tools
-<a href="https://www.linux.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode" alt="Developer Tools" height="40" />
-</a>
-
-<br />
+---
 
 ## 🚀 Featured Projects
 
@@ -87,28 +57,22 @@ Production-ready 3-tier AWS infrastructure provisioned using modular Terraform w
 - **Technologies:** `AWS` · `Terraform` · `HCL` · `ALB` · `RDS` · `VPC`
 - **Link:** [View Repository](https://github.com/Degu22/3tier-architecture-terraform)
 
-<br />
-
 ### 2. [AWS Multi-AZ High-Availability Infrastructure](https://github.com/Degu22/AWS-3tier-architecture)
 High-availability 3-tier AWS architecture blueprint featuring automated load balancing, security group isolation, and multi-subnet scaling.
 - **Technologies:** `AWS` · `EC2` · `Auto Scaling` · `ALB` · `RDS`
 - **Link:** [View Repository](https://github.com/Degu22/AWS-3tier-architecture)
-
-<br />
 
 ### 3. [Enterprise Java App CI/CD Pipeline](https://github.com/Degu22/java-application)
 Containerized Java web application integrated with Apache Maven build scripts and automated Jenkins CI/CD pipeline configuration.
 - **Technologies:** `Java` · `Maven` · `Jenkins` · `CI/CD` · `Docker`
 - **Link:** [View Repository](https://github.com/Degu22/java-application)
 
-<br />
-
 ### 4. [Developer Portfolio Website](https://portfolio-devi-prasad.vercel.app/)
 Modern, responsive personal developer showcase application built with Next.js, TypeScript, React, and Tailwind CSS.
 - **Technologies:** `Next.js` · `TypeScript` · `React` · `Tailwind CSS`
 - **Links:** [Live Demo](https://portfolio-devi-prasad.vercel.app/) | [View Repository](https://github.com/Degu22/Portfolio_DeviPrasad)
 
-<br />
+---
 
 ## 📚 Currently Learning
 
@@ -118,11 +82,11 @@ Modern, responsive personal developer showcase application built with Next.js, T
 - 🔄 **GitHub Actions:** Matrix builds, custom action workflows, and GitOps deployments.
 - 📊 **Monitoring & Observability:** Implementing Prometheus scrapers and Grafana operational dashboards.
 
-<br />
+---
 
 ## 📫 Connect With Me
 
-<p>
+<p align="left">
   <a href="https://www.linkedin.com/in/g-devi-prasad/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
