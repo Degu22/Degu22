@@ -1,16 +1,20 @@
 <div align="center">
 
-  <img src="profile.jpg" alt="Devi Prasad Gudipally" width="200" height="200" style="border-radius: 50%; object-fit: cover; border: 3px solid #0ea5e9; box-shadow: 0 4px 14px rgba(0,0,0,0.25);" />
+  <img src="profile.png" alt="Devi Prasad Gudipally" width="200" height="200" />
 
   # Devi Prasad Gudipally
 
-  **DevOps Engineer | Cloud Engineer | AWS | Terraform | Kubernetes | CI/CD**
+  ### DevOps Engineer | Cloud Engineer | AWS | Terraform | Kubernetes | CI/CD
 
   *Building scalable cloud infrastructure, automating deployments, and delivering reliable DevOps solutions.*
 
 </div>
 
+<br />
+
 ---
+
+<br />
 
 ## 👨‍💻 About Me
 
@@ -23,7 +27,7 @@ With hands-on experience in **AWS**, **Terraform**, **Docker**, **Kubernetes**, 
 - 🐳 **Containerization & Orchestration:** Packaging applications with Docker and managing workload deployments in Kubernetes environments.
 - 🔄 **CI/CD & Automation:** Building continuous integration and automated deployment pipelines with Jenkins and GitHub Actions.
 
----
+<br />
 
 ## 🛠 Tech Stack
 
@@ -32,75 +36,79 @@ With hands-on experience in **AWS**, **Terraform**, **Docker**, **Kubernetes**, 
   <img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="40" />
 </a>
 
+<br />
+
 ### Containers
 <a href="https://www.docker.com/" target="_blank">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes" alt="Containers" height="40" />
 </a>
+
+<br />
 
 ### CI/CD
 <a href="https://www.jenkins.io/" target="_blank">
   <img src="https://skillicons.dev/icons?i=jenkins,githubactions" alt="CI/CD" height="40" />
 </a>
 
+<br />
+
 ### Infrastructure as Code
 <a href="https://www.terraform.io/" target="_blank">
   <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" height="40" />
 </a>
+
+<br />
 
 ### Monitoring
 <a href="https://prometheus.io/" target="_blank">
   <img src="https://skillicons.dev/icons?i=prometheus,grafana" alt="Monitoring" height="40" />
 </a>
 
+<br />
+
 ### Programming
 <a href="https://www.java.com/" target="_blank">
   <img src="https://skillicons.dev/icons?i=java,ts,js,bash" alt="Programming" height="40" />
 </a>
+
+<br />
 
 ### Developer Tools
 <a href="https://www.linux.org/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linux,git,github,vscode" alt="Developer Tools" height="40" />
 </a>
 
----
+<br />
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-</div>
-
 ### 1. [AWS 3-Tier Architecture (Terraform)](https://github.com/Degu22/3tier-architecture-terraform)
-> Multi-AZ AWS Infrastructure provisioned using modular Terraform (VPC, ALB, ASG, RDS MySQL DB).
-
+Production-ready 3-tier AWS infrastructure provisioned using modular Terraform with ALB, Auto Scaling Groups, RDS MySQL, and custom VPC networking.
 - **Technologies:** `AWS` · `Terraform` · `HCL` · `ALB` · `RDS` · `VPC`
-- **Repository:** [Degu22/3tier-architecture-terraform](https://github.com/Degu22/3tier-architecture-terraform)
+- **Link:** [View Repository](https://github.com/Degu22/3tier-architecture-terraform)
 
----
+<br />
 
 ### 2. [AWS Multi-AZ High-Availability Infrastructure](https://github.com/Degu22/AWS-3tier-architecture)
-> High-availability 3-tier AWS architecture blueprint featuring automated load balancing and multi-subnet scaling.
-
+High-availability 3-tier AWS architecture blueprint featuring automated load balancing, security group isolation, and multi-subnet scaling.
 - **Technologies:** `AWS` · `EC2` · `Auto Scaling` · `ALB` · `RDS`
-- **Repository:** [Degu22/AWS-3tier-architecture](https://github.com/Degu22/AWS-3tier-architecture)
+- **Link:** [View Repository](https://github.com/Degu22/AWS-3tier-architecture)
 
----
+<br />
 
 ### 3. [Enterprise Java App CI/CD Pipeline](https://github.com/Degu22/java-application)
-> Containerized Java web application integrated with Apache Maven build scripts and Jenkins CI/CD automation.
-
+Containerized Java web application integrated with Apache Maven build scripts and automated Jenkins CI/CD pipeline configuration.
 - **Technologies:** `Java` · `Maven` · `Jenkins` · `CI/CD` · `Docker`
-- **Repository:** [Degu22/java-application](https://github.com/Degu22/java-application)
+- **Link:** [View Repository](https://github.com/Degu22/java-application)
 
----
+<br />
 
-### 4. [Developer Portfolio Website](https://github.com/Degu22/Portfolio_DeviPrasad)
-> Modern, responsive developer showcase application built with Next.js, TypeScript, and React.
-
+### 4. [Developer Portfolio Website](https://portfolio-devi-prasad.vercel.app/)
+Modern, responsive personal developer showcase application built with Next.js, TypeScript, React, and Tailwind CSS.
 - **Technologies:** `Next.js` · `TypeScript` · `React` · `Tailwind CSS`
-- **Repository:** [Degu22/Portfolio_DeviPrasad](https://github.com/Degu22/Portfolio_DeviPrasad)
+- **Links:** [Live Demo](https://portfolio-devi-prasad.vercel.app/) | [View Repository](https://github.com/Degu22/Portfolio_DeviPrasad)
 
----
+<br />
 
 ## 📚 Currently Learning
 
@@ -110,18 +118,20 @@ With hands-on experience in **AWS**, **Terraform**, **Docker**, **Kubernetes**, 
 - 🔄 **GitHub Actions:** Matrix builds, custom action workflows, and GitOps deployments.
 - 📊 **Monitoring & Observability:** Implementing Prometheus scrapers and Grafana operational dashboards.
 
----
+<br />
 
 ## 📫 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/deviprasad-gudipally/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/g-devi-prasad/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
-  <a href="https://github.com/Degu22/Portfolio_DeviPrasad" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio_Website-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Portfolio" />
+  &nbsp;
+  <a href="https://portfolio-devi-prasad.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Personal Portfolio Website" />
   </a>
+  &nbsp;
   <a href="mailto:deviprasadgudipally@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Email" />
   </a>
 </p>
